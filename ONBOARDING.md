@@ -16,7 +16,7 @@ Now you're ready to start setting things up:
 ## GitHub
 - [ ] Open the GitHub Enterprise app
 - [ ] Set up 2-factor auth (https://authy.com is the recommended system for this)
-- [ ] Request access your manager to get access to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
+- [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
 - [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
 - [ ] Follow the README and get up and running!
 
@@ -25,7 +25,7 @@ Now you're ready to start setting things up:
 - [ ] Feel free to use your personal Apple account for downloading apps
 - [ ] https://sch-chat.slack.com
 - [ ] Press the "Sign with Okta" button
-- [ ] Ask your manager to get access to the relevant channels
+- [ ] Ask your manager to invite you to the relevant channels
   - **#finn-apps-general**: General discussions, main communication channel with the rest of FINN when it comes to apps
   - **#finn-apps-status**: Daily virtual standup, every morning share what's your plan, be as descriptive as you can be, share progress as well as blockers
   - **#finn-apps-social**: Fun things, social gatherings and other announcements
