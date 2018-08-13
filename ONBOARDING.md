@@ -1,4 +1,6 @@
-_**Welcome to FINN!**_ We are happy of having you with us, we have written this guide to get you started in your journey of _making the FINN app great again_! If any of the steps are outdated or any information is missing please send a pull request.
+# Welcome to FINN!
+
+We are happy of having you with us, we have written this guide to get you started in your journey of _making the FINN app great again_! If any of the steps are outdated or any information is missing please send a pull request.
 
 Before your first day make sure to agree on an arrival time so there's someone there to welcome you. Make sure to bring your personal computer in case there's any issues with your new shiny hardware. 
 
@@ -39,14 +41,18 @@ Now we need to setup with GitHub
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap)
 - Mondays is soup, Tuesdays vegetarian, Wednesday fish, Thrusday pasta and Friday random (and waffles in the 3rd floor)
 
-# 1st week
+# Your first days here
+
+Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
+
+## 1st week
 Go through your coding challenge and implement improvements following FINN's coding guidelines and development process
 
-# 2nd week
+## 2nd week
 Implement a recipes app following FINN's coding guidelines and development process
 
-# 3rd week
+## 3rd week
 Implement or improve a shared component from Finnivers and add it to the main app
 
-# 4rd week
+## 4rd week
 Check Trello board for starter-tasks
