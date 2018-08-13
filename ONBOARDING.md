@@ -11,7 +11,7 @@ To set up your computer you have to know that [Okta](https://schibsted.okta.com)
 ![Okta](https://raw.githubusercontent.com/finn-no/ios-handbook/master/Images/okta.png)
 
 
-Now we need to setup with GitHub
+Now you're ready to start setting things up:
 
 ## GitHub
 - [ ] Open the GitHub Enterprise app
