@@ -51,7 +51,7 @@ Here's a rough plan of what you'll be doing, we hope you like what we have prepa
 Go through your coding challenge and implement improvements following FINN's coding guidelines and development process. The purpose of this is to introduce you in some of our tools and frameworks, you'll most likely implement similar patterns than the ones we use in FINN and will provide valuable feedback so we can improve our internal tooling.
 
 ## 2nd week
-Implement a recipes app following FINN's coding guidelines and development process. The purpose of this is to introduce you to some of our core architecture choices as well as to the way we style components.
+Implement a recipes app following FINN's coding guidelines and development process. The purpose of this is to introduce you to some of our core architecture choices as well as to the way we style components. You'll also be challenged in implementing complex animations and transitions, this will be helpful later on when you're working on the main apps.
 
 ## 3rd week
 Implement or improve a shared component from Finnivers and add it to the main app. Our main apps can be big and overwhelming, starting with a small component will help you to get familiar with the app while maintaining focus on a small area of the apps.
