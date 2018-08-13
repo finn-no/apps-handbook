@@ -1,4 +1,4 @@
-# apps-handbook
+# FINN.no Apps Handbook
 
 ## Table of Contents
 
