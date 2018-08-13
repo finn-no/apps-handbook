@@ -17,7 +17,7 @@ Now we need to setup with GitHub
 - [ ] Open the GitHub Enterprise app
 - [ ] Set up 2-factor auth (https://authy.com is the recommended system for this)
 - [ ] Request access your manager to get access to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
-- [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app)
+- [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
 - [ ] Follow the README and get up and running!
 
 ## Slack
