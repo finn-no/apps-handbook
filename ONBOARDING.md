@@ -37,7 +37,7 @@ Now you're ready to start setting things up:
 - [ ] Get access to the relevant Trello boards
 
 ## Practical info
-- We usually eat lunch at 11:00 in the 4th floor
+- We usually eat lunch at 11:30 in the cantina of the 4th floor
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap)
 - Mondays is soup, Tuesdays vegetarian, Wednesday fish, Thrusday pasta and Friday random (and waffles in the 2nd floor)
 
