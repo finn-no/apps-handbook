@@ -21,4 +21,7 @@ Go through your coding challenge and implement improvements following FINN's cod
 Implement a recipes app following FINN's coding guidelines and development process
 
 # 3rd week
-Implement 
+Implement or improve a shared component from Finnivers and add it to the main app
+
+# 4rd week
+Check Trello board for starter-tasks
