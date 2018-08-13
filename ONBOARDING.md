@@ -14,6 +14,11 @@
 - You'll be added to our Enterprise GitHub as well as to our public Github accounts
 - Clone the iOS or Android project and get it running on your device
 
+## Practical info
+- We usually eat lunch at 11:00 in the 4th floor
+- The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap)
+- Mondays is soup, Tuesdays vegetarian, Wednesday fish, Thrusday pasta and Friday random (and waffles in the 3rd floor)
+
 # 1st week
 Go through your coding challenge and implement improvements following FINN's coding guidelines and development process
 
