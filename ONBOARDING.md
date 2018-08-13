@@ -34,7 +34,9 @@ Now you're ready to start setting things up:
   
 ## Trello
 - [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
-- [ ] Get access to the relevant Trello boards
+- [ ] Get access to the relevant Trello boards 
+  - **iOS** https://trello.com/b/vPWoWfzO/ios
+  - **Android** https://trello.com/b/Z5hHfJCJ/android
 
 ## Practical info
 - We usually eat lunch at 11:30 in the cantina of the 4th floor
