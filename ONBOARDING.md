@@ -48,13 +48,13 @@ Now you're ready to start setting things up:
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
 ## 1st week
-Go through your coding challenge and implement improvements following FINN's coding guidelines and development process
+Go through your coding challenge and implement improvements following FINN's coding guidelines and development process. The purpose of this is to introduce you in some of our tools and frameworks, you'll most likely implement similar patterns than the ones we use in FINN and will provide valuable feedback so we can improve our internal tooling.
 
 ## 2nd week
-Implement a recipes app following FINN's coding guidelines and development process
+Implement a recipes app following FINN's coding guidelines and development process. The purpose of this is to introduce you to some of our core architecture choices as well as to the way we style components.
 
 ## 3rd week
-Implement or improve a shared component from Finnivers and add it to the main app
+Implement or improve a shared component from Finnivers and add it to the main app. Our main apps can be big and overwhelming, starting with a small component will help you to get familiar with the app while maintaining focus on a small area of the apps.
 
 ## 4rd week
-Check Trello board for starter-tasks
+You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
