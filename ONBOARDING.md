@@ -18,7 +18,7 @@ Now you're ready to start setting things up:
 
 ## GitHub
 - [ ] Open the GitHub Enterprise app
-- [ ] Set up 2-factor auth (https://authy.com is the recommended system for this. The reason for this is that Google Authenticator and similar don't have a backup system in place, if you need to set up a new device or lose your phone you are locked out from your accounts. And if you use SMS switching SIM cards can mean that you're locked out of your account as well.)
+- [ ] Set up 2-factor auth (using https://authy.com here as well)
 - [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
 - [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
 - [ ] Follow the README and get up and running!
