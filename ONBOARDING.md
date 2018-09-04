@@ -48,6 +48,7 @@ Now you're ready to start setting things up:
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
+- For filing expensese you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email.
 
 # Your first days here
 
