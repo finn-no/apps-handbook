@@ -31,7 +31,7 @@ Now you're ready to start setting things up:
 - [ ] Ask your manager to invite you to the relevant channels
   - **#finn-apps-general**: General discussions, main communication channel with the rest of FINN when it comes to apps
   - **#finn-apps-status**: Daily virtual standup, every morning share what's your plan, be as descriptive as you can be, share progress as well as blockers
-  - **#finn-apps-social**: Fun things, social gatherings and other announcements
+  - **#finn-apps-family**: Fun things, social gatherings and other announcements
   - **#finn-apps-dev**: General developer talk (iOS, Android and Backend)
 - [ ] Add a picture everywhere!
   
@@ -42,13 +42,14 @@ Now you're ready to start setting things up:
   - **Android** https://trello.com/b/Z5hHfJCJ/android
 
 ## Practical info
-- We usually eat lunch at 11:30 in the cantina of the 4th floor
-- The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap)
+- We usually eat lunch at 11:23 in the cantina of the 4th floor
+- The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
 - Mondays is soup, Tuesdays vegetarian, Wednesday fish, Thrusday pasta and Friday random (and waffles in the 2nd floor)
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
-- For filing expensese you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email.
+- For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
+- If you're part of the Platform team for tracking vacation time we use CharlieHR, ask Elvis for access, otherwise ask your manager
 
 # Your first days here
 
