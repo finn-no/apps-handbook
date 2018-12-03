@@ -49,15 +49,18 @@ Now you're ready to start setting things up:
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
-- If you're part of the Platform team for tracking vacation time we use CharlieHR, ask Elvis for access, otherwise ask your manager
 
 # Your first days here
-
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
 ## Onboarding project
-
 We have set up an onboarding project to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
 
 ## Starter tasks
 You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
+
+## HackDay
+Every last Monday of each month we have a HackDay, the goal for this day is to make something you're been craving to fix, improve or propose in the FINN apps. HackDay starts the previous Friday with a brainstorming sessions and starts on Monday as soon as you arrive to work. The following day we have a HackDay presentations meeting where you'll show your peers how awesome you are.
+
+## Recurring team meetings
+Every week the Android team gathers to discuss a status, the iOS team does it every couple of weeks, make sure you're invited to those.
