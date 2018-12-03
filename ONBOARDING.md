@@ -55,16 +55,9 @@ Now you're ready to start setting things up:
 
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
-## 1nd phase
-Implement the Food2Fork app following FINN's coding guidelines and development process. The purpose of this is to introduce you to some of our core architecture choices as well as to the way we style components. You'll also be challenged in implementing complex animations and transitions, this will be helpful later on when you're working on the main apps.
+## Onboarding project
 
-More info on the onboarding project here: https://github.com/finn-no/ios-handbook/blob/master/ONBOARDING_PROJECT.md
+We have set up an onboarding project to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
 
-## 2nd phase
-Implement or improve a shared component from Finnivers and add it to the main app. Our main apps can be big and overwhelming, starting with a small component will help you to get familiar with the app while maintaining focus on a small area of the apps.
-
-## 3rd phase
-You'll be given a glimpse of how our backends work, you'll create your own gateway and implement it in the main app. The purpose of this is for you to learn how to run the app against dev backend environments as well as how to hook up your simulator to this local backend.
-
-## 4th phase
+## Starter tasks
 You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
