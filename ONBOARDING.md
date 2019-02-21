@@ -49,6 +49,7 @@ Now you're ready to start setting things up:
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
+- Almost every Wednesday at 14:30 there is Academy (i.e tech talk) in the cantina of the 4th floor with refreshments
 
 # Your first days here
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
