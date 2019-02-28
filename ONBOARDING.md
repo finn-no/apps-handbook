@@ -44,7 +44,7 @@ Now you're ready to start setting things up:
 ## Practical info
 - We usually eat lunch at 11:23 in the cantina of the 4th floor
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
-- Mondays is soup, Tuesdays vegetarian, Wednesday fish, Thrusday pasta and Friday random (and waffles in the 2nd floor)
+- Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thrusday fish and Friday random (and waffles in the 2nd floor)
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
