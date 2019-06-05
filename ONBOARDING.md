@@ -1,6 +1,6 @@
 # Welcome to FINN!
 
-We are happy of having you with us, we have written this guide to get you started in your journey of _making the FINN app great again_! If any of the steps are outdated or any information is missing please send a pull request.
+We are happy of having you with us, we have written this guide to get you started in your journey of improving your FINN app experience! If any of the steps are outdated or any information is missing please send a pull request.
 
 Before your first day make sure to agree on an arrival time so there's someone there to welcome you. Make sure to bring your personal computer in case there's any issues with your new shiny hardware. 
 
