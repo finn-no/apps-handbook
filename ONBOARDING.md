@@ -4,15 +4,11 @@ We are happy of having you with us, we have written this guide to get you starte
 
 It's your first day here and you should have temporary access card, remember to get your photo taken at the reception. I hope you have enjoyed unwrapping all those little boxes 🎁. It's time for you to get all your accounts set up.
 
-To set up your computer you have to know that [Okta](https://schibsted.okta.com) is your main gateway for all the things Schibsted (and FINN), here you'll find direct links to all the apps you've access to.
+The first step to get you up and running is to setup Okta, so go ahead and open https://schibsted.okta.com and sign in. Okta is your main gateway for all the things Schibsted (and FINN), here you'll find direct links to all the apps you've access to. You will be asked to set up your account using 2-factor auth, to do this https://authy.com is the recommended system. The reason for this is that other 2-factor services don't have a backup system in place. **To set up Authy just follow the steps as if it was Google Authenticator and scan the QR code using Authy.**
 
-When setting up 2-factor auth https://authy.com is the recommended system for this. The reason for this is that Google Authenticator and similar don't have a backup system in place, if you need to set up a new device or lose your phone you are locked out from your accounts. And if you use SMS switching SIM cards can mean that you're locked out of your account as well.
-
-To set up Authy just follow the steps as if it was Google Authenticator and scan the QR code using Authy.
+Once you're logged in you should see this:
 
 ![Okta](https://raw.githubusercontent.com/finn-no/ios-handbook/master/Images/okta.png)
-
-Now you're ready to start setting things up:
 
 ## GitHub
 - [ ] Open the GitHub Enterprise app
