@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Onboarding](/ONBOARDING.md)
+* [FIRST_DAYS](/FIRST_DAYS.md)
 * [Training](/TRAINING.md)
 * [iOS](https://github.com/finn-no/ios-handbook)
 * [Android](/)
