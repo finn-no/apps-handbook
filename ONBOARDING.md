@@ -2,9 +2,7 @@
 
 We are happy of having you with us, we have written this guide to get you started in your journey of improving your FINN app experience! If any of the steps are outdated or any information is missing please send a pull request.
 
-Before your first day make sure to agree on an arrival time so there's someone there to welcome you. Make sure to bring your personal computer in case there's any issues with your new shiny hardware. 
-
-On your first day walk into reception and get yourself a temporary access card, a picture will be taken as well. After this you'll be taken to greet the team (across the different spaces). After this you would come to Service desk to get your computer.
+It's your first day here and you should have temporary access card, remember to get your photo taken at the reception. I hope you have enjoyed unwrapping all those little boxes 🎁. It's time for you to get all your accounts set up.
 
 To set up your computer you have to know that [Okta](https://schibsted.okta.com) is your main gateway for all the things Schibsted (and FINN), here you'll find direct links to all the apps you've access to.
 
