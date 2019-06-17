@@ -10,13 +10,6 @@ Once you're logged in you should see this:
 
 ![Okta](https://raw.githubusercontent.com/finn-no/ios-handbook/master/Images/okta.png)
 
-## GitHub
-- [ ] Open the GitHub Enterprise app
-- [ ] Set up 2-factor auth (using https://authy.com here as well)
-- [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
-- [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
-- [ ] Follow the README and get up and running!
-
 ## Slack
 - [ ] Download Slack app (https://slack.com/downloads/osx)
 - [ ] Feel free to use your personal Apple account for downloading apps
@@ -28,6 +21,13 @@ Once you're logged in you should see this:
   - **#finn-apps-family**: Fun things, social gatherings and other announcements
   - **#finn-apps-dev**: General developer talk (iOS, Android and Backend)
 - [ ] Add a picture everywhere!
+
+## GitHub
+- [ ] Open the GitHub Enterprise app
+- [ ] Set up 2-factor auth (using https://authy.com here as well)
+- [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
+- [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
+- [ ] Follow the README and get up and running!
   
 ## Trello
 - [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
