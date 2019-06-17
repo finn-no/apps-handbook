@@ -16,7 +16,8 @@ Feedback:
 
 - Have a solution project
 - Have milestones or be clear on what we expect also when we finish a project
-- HackDay in training program
+  - Discuss in the Android meeting
+- What should I do during HackDay while in training program?
 - List of Slack channels
 - List of events or social things
 - Abreviation guide
