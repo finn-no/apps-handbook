@@ -16,11 +16,17 @@ Once you're logged in you should see this:
 - [ ] https://sch-chat.slack.com
 - [ ] Press the "Sign with Okta" button
 - [ ] Ask your manager to invite you to the relevant channels
+- [ ] Add a picture everywhere!
+
+FINN specific channels:
+  - **#finn-tech**: General discussions between all the developers in FINN
+  - **#finn-social**: Social gatherings and randomly planned Fredagspils.
+
+Apps specific channels:
   - **#finn-apps-general**: General discussions, main communication channel with the rest of FINN when it comes to apps
   - **#finn-apps-status**: Daily virtual standup, every morning share what's your plan, be as descriptive as you can be, share progress as well as blockers
   - **#finn-apps-family**: Fun things, social gatherings and other announcements
   - **#finn-apps-dev**: General developer talk (iOS, Android and Backend)
-- [ ] Add a picture everywhere!
 
 ## GitHub
 - [ ] Open the GitHub Enterprise app
@@ -36,7 +42,7 @@ Once you're logged in you should see this:
   - **Android** https://trello.com/b/Z5hHfJCJ/android
 
 ## Practical info
-- We usually eat lunch at 11:23 in the cantina of the 4th floor
+- We usually eat lunch at 11:23 in the cantina of the 4th floor (on Fridays we eat in the 2nd floor just to be as close to the waffles as possible)
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
 - Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thrusday fish and Friday random (and waffles in the 2nd floor)
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
@@ -48,8 +54,11 @@ Once you're logged in you should see this:
 # Your first days here
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
-## Onboarding project
-We have set up an onboarding project to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
+## Training program
+If you don't have much experience with Android we have prepared a nice 6-month training program for you, in this period you'll be mentored and challenged to become a great Android developer. This program might be different from people to people, it mainly depends on your current experience level.
+
+## Onboarding program
+If you have been working with Android for quite some time and feel confident you'll be faced with our onboarding program to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
 
 ## Starter tasks
 You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
