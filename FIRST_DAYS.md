@@ -32,8 +32,9 @@ Apps specific channels:
 - [ ] Open the GitHub Enterprise app
 - [ ] Set up 2-factor auth (using https://authy.com here as well)
 - [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
-- [ ] Set up SSH and clone the iOS repo (https://github.schibsted.io/finn/ios-app) or Android repo (https://github.schibsted.io/finn/android_finn_app)
-- [ ] Follow the README and get up and running!
+- [ ] You'll find the apps repositories here
+    - iOS: https://github.schibsted.io/finn/ios-app
+    - Android repo https://github.schibsted.io/finn/android_finn_app
   
 ## Trello
 - [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
