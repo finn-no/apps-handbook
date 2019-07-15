@@ -56,10 +56,10 @@ Apps specific channels:
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
 ## Training program
-If you don't have much experience with Android we have prepared a nice 6-month training program for you, in this period you'll be mentored and challenged to become a great Android developer. This program might be different from people to people, it mainly depends on your current experience level.
+If you don't have much experience with Android or iOS we have prepared a nice 6-month training program for you, in this period you'll be mentored and challenged to become a great Android developer. This program might be different from people to people, it mainly depends on your current experience level.
 
 ## Onboarding program
-If you have been working with Android for quite some time and feel confident you'll be faced with our onboarding program to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
+If you have been working with Android or iOS for quite some time and feel confident you'll be faced with our onboarding program to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
 
 ## Starter tasks
 You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
@@ -68,4 +68,4 @@ You will start contributing to our main app by solving tasks marked as "starter-
 Every last Monday of each month we have a HackDay, the goal for this day is to make something you're been craving to fix, improve or propose in the FINN apps. HackDay starts the previous Friday with a brainstorming sessions and starts on Monday as soon as you arrive to work. The following day we have a HackDay presentations meeting where you'll show your peers how awesome you are.
 
 ## Recurring team meetings
-Every week the Android team gathers to discuss a status, the iOS team does it every couple of weeks, make sure you're invited to those.
+Every couple of weeks the Android and iOS teams gather to discuss ideas and to share their status, make sure you're invited to those.
