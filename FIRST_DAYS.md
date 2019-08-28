@@ -43,7 +43,7 @@ Apps specific channels:
   - **Android** https://trello.com/b/Z5hHfJCJ/android
 
 ## Practical info
-- We usually eat lunch at 11:23 in the cantina of the 4th floor (on Fridays we eat in the 2nd floor just to be as close to the waffles as possible)
+- We usually eat lunch at 11:25 in the cantina of the 4th floor (on Fridays we eat in the 2nd floor just to be as close to the waffles as possible)
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
 - Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thrusday fish and Friday random (and waffles in the 2nd floor)
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
