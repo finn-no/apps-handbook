@@ -21,12 +21,19 @@ Once you're logged in you should see this:
 FINN specific channels:
   - **#finn-tech**: General discussions between all the developers in FINN
   - **#finn-social**: Social gatherings and randomly planned Fredagspils.
+  - **#finn-fysisk-fostring**: Everything related to planned physical activities you can participate in
+  - **#finn-tech-women**: Channel for all the women in tech at FINN
+  - **#finnternationals**: Channel for international, non-Norwegian native speaking people at FINN
+  - **#oslo-dev-events**: Cake and dev events
 
 Apps specific channels:
   - **#finn-apps-general**: General discussions, main communication channel with the rest of FINN when it comes to apps
   - **#finn-apps-status**: Daily virtual standup, every morning share what's your plan, be as descriptive as you can be, share progress as well as blockers
   - **#finn-apps-family**: Fun things, social gatherings and other announcements
   - **#finn-apps-dev**: General developer talk (iOS, Android and Backend)
+  - **#finn-apps-platform**: Channel with all the people from the Platform Apps & Ad Out Apps team
+  - **#finn-android-chat**: Chat about the Android app
+  - **#finn-android-bots**: Lots of noise from all the bots connected to the Android app (GitHub, Travis,...)
 
 ## GitHub
 - [ ] Open the GitHub Enterprise app
@@ -39,18 +46,20 @@ Apps specific channels:
 ## Trello
 - [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
 - [ ] Get access to the relevant Trello boards 
-  - **iOS** https://trello.com/b/vPWoWfzO/ios
-  - **Android** https://trello.com/b/Z5hHfJCJ/android
+  - **Platform iOS** https://trello.com/b/vPWoWfzO/ios
+  - **Platform Android** https://trello.com/b/Z5hHfJCJ/android
+  - **AdOut iOS** https://trello.com/b/H0e5D4Rw/adout-ios
+  - **AdOut Android** https://trello.com/b/2Ix8f0gc/adout-android
 
 ## Practical info
-- We usually eat lunch at 11:25 in the cantina of the 4th floor (on Fridays we eat in the 2nd floor just to be as close to the waffles as possible)
+- We usually eat lunch at 11:25 in the cantina of the 4th floor (on Fridays we go down to the 2nd floor afterwards for waffles!)
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
-- Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thrusday fish and Friday random (and waffles in the 2nd floor)
+- Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thursday fish and Friday random (and waffles in the 2nd floor)
 - Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
-- Almost every Wednesday at 14:30 there is Academy (i.e tech talk) in the cantina of the 4th floor with refreshments
+- Almost every Wednesday at 14:30 there is Academy (i.e tech talk) in the cantina of the 4th floor with refreshments. You can see the schedule [here](https://confluence.schibsted.io/display/FC/FINN+Academy).
 
 # Your first days here
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
