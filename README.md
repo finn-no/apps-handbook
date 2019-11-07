@@ -1,4 +1,4 @@
-# FINN.no Apps Handbook
+<p align="center"><img width=100% src="https://raw.githubusercontent.com/finn-no/apps-handbook/master/Images/cover-v1.png"></p>
 
 ## Table of Contents
 
