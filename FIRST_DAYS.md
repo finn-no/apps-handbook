@@ -43,19 +43,16 @@ Apps specific channels:
     - iOS: https://github.schibsted.io/finn/ios-app
     - Android repo https://github.schibsted.io/finn/android_finn_app
   
-## Trello
-- [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
-- [ ] Get access to the relevant Trello boards 
-  - **Platform iOS** https://trello.com/b/vPWoWfzO/ios
-  - **Platform Android** https://trello.com/b/Z5hHfJCJ/android
-  - **AdOut iOS** https://trello.com/b/H0e5D4Rw/adout-ios
-  - **AdOut Android** https://trello.com/b/2Ix8f0gc/adout-android
+## Jira
+Previously we used Trello for issue tracking, but in late 2020 we switched to Jira to make it easier to collaborate with other teams (they are practically all on Jira, and we do a lot of collaborative work).
+- [ ] Ensure that you can log in to the FINN Jira at https://finn-jira.atlassian.net/. Check with your manager if you can't log in.
+- [ ] Ensure that you can see the app board at https://finn-jira.atlassian.net/secure/RapidBoard.jspa?rapidView=441, it should show you issues from the APPS project along with app-specific issues from ADOUT and ADIN.
 
 ## Practical info
-- We usually eat lunch at 11:25 in the cantina of the 4th floor (on Fridays we go down to the 2nd floor afterwards for waffles!)
+- We usually eat lunch at 11:25 in the cantina (on Fridays we finish off with waffles and a coffee together!)
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
 - Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thursday fish and Friday random (and waffles in the 2nd floor)
-- Burger mondays are a thing here in the Apps team, so if you're carving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
+- Burger mondays are a thing here in the Apps team, so if you're craving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
@@ -65,7 +62,7 @@ Apps specific channels:
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
 ## Training program
-If you don't have much experience with Android or iOS we have prepared a nice 6-month training program for you, in this period you'll be mentored and challenged to become a great Android developer. This program might be different from people to people, it mainly depends on your current experience level.
+If you don't have much experience with Android or iOS we have prepared a nice 6-month training program for you, in this period you'll be mentored and challenged to become a great app developer. This program might be different from people to people, it mainly depends on your current experience level.
 
 ## Onboarding program
 If you have been working with Android or iOS for quite some time and feel confident you'll be faced with our onboarding program to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
@@ -73,8 +70,8 @@ If you have been working with Android or iOS for quite some time and feel confid
 ## Starter tasks
 You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
 
-## HackDay
-Every last Monday of each month we have a HackDay, the goal for this day is to make something you're been craving to fix, improve or propose in the FINN apps. HackDay starts the previous Friday with a brainstorming sessions and starts on Monday as soon as you arrive to work. The following day we have a HackDay presentations meeting where you'll show your peers how awesome you are.
+## Competence Day
+Every last Monday of each month we have a Competence Day, the goal for this day is to make something you're been craving to fix, improve or propose in the FINN apps - or just catch up on presentations and articles about interesting technologies in your field. Competence Day starts the previous Friday where you spend some time deciding what to do with your day, and starts on Monday as soon as you arrive to work. The following day we have a presentations meeting where you'll show your peers how awesome you are or what you've learnt.
 
 ## Recurring team meetings
 Every couple of weeks the Android and iOS teams gather to discuss ideas and to share their status, make sure you're invited to those.
