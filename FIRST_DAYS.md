@@ -68,10 +68,10 @@ If you don't have much experience with Android or iOS we have prepared a nice 6-
 If you have been working with Android or iOS for quite some time and feel confident you'll be faced with our onboarding program to get you started in how we have been doing things at FINN. We call this project "Wishlist" or "Ønskeliste" in Norwegian. You'll find all the details of this project [here](/ONBOARDING_PROJECT.md).
 
 ## Starter tasks
-You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Trello board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big.
+You will start contributing to our main app by solving tasks marked as "starter-tasks" in our Jira board, feel free to include any improvements that you have in mind into the mix, we'll collaborate to solve your doubts as well as to give you insight in any of the decisions we took in the apps. You're part of the team now, your feedback is important for us to improve the way we do things so please share anything that you feel could be better, doesn't matter if it's small or big. If you can't find any suitable starter tasks, talk to your platform TDE and they are sure to find something for you to get your hands dirty.
 
 ## Competence Day
 Every last Monday of each month we have a Competence Day, the goal for this day is to make something you're been craving to fix, improve or propose in the FINN apps - or just catch up on presentations and articles about interesting technologies in your field. Competence Day starts the previous Friday where you spend some time deciding what to do with your day, and starts on Monday as soon as you arrive to work. The following day we have a presentations meeting where you'll show your peers how awesome you are or what you've learnt.
 
 ## Recurring team meetings
-Every couple of weeks the Android and iOS teams gather to discuss ideas and to share their status, make sure you're invited to those.
+Every couple of weeks the Android and iOS teams gather to discuss ideas and to share their status, make sure you're invited to those and talk to your platform TDE if you're not. *During the 2020-2021 Corona pandemic we're working from home, and we've increased the frequency to once a week.*
