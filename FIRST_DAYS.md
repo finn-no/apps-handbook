@@ -40,7 +40,8 @@ Apps specific channels:
 - [ ] Set up 2-factor auth (using https://authy.com here as well)
 - [ ] Ask your manager to add you to the FINN organization in GitHub Enterprise (https://github.schibsted.io)
 - [ ] You'll find the apps repositories here
-    - iOS: https://github.schibsted.io/finn/ios-app
+    - iOS: https://github.schibsted.io/finn/ios-app 
+        - And some more https://github.schibsted.io/finn/finn-client-ios, https://github.com/finn-no/FinniversKit, https://github.com/finn-no/finnui-ios, https://github.schibsted.io/finn/messaging-ios-sdk, https://github.schibsted.io/finn/ad-insertion-ios, https://github.schibsted.io/finn/notification-center-ios, https://github.com/finn-no/charcoal-ios, https://github.com/finn-no/BottomSheet, https://github.schibsted.io/finn/imagepicker-ios, https://github.schibsted.io/finn/filter-translator-ios, https://github.schibsted.io/finn/motor-transaction-ios, https://github.schibsted.io/finn/trust-ios-sdk, https://github.schibsted.io/finn/job-candidate-profile-ios, https://github.schibsted.io/finn/search-quest-ios, https://github.schibsted.io/finn/my-vehicles-ios, https://github.com/finn-no/Finjinon
     - Android repo https://github.schibsted.io/finn/android_finn_app
   
 ## Jira
