@@ -59,6 +59,9 @@ Previously we used Trello for issue tracking, but in late 2020 we switched to Ji
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
 - Almost every Wednesday at 14:30 there is Academy (i.e tech talk) in the cantina of the 4th floor with refreshments. You can see the schedule [here](https://confluence.schibsted.io/display/FC/FINN+Academy).
 
+## FINN Technology onboarding guide
+There is an onboarding guide for all of FINN technology, not just app developers. [Check it out](https://github.schibsted.io/finn/onboarding)!
+
 # Your first days here
 Here's a rough plan of what you'll be doing, we hope you like what we have prepared for you.
 
