@@ -53,11 +53,9 @@ Previously we used Trello for issue tracking, but in late 2020 we switched to Ji
 - We usually eat lunch at 11:25 in the cantina (on Fridays we finish off with waffles and a coffee together!)
 - The cantina expenses are withdrawn from your salary as a monthly expense (it's quite cheap), if you're a consultant this will be handled with your employer make sure to let them know
 - Mondays is soup, Tuesdays vegetarian, Wednesday meat, Thursday fish and Friday random (and waffles in the 2nd floor)
-- Burger mondays are a thing here in the Apps team, so if you're craving burgers feel free to join or organize a trip to your favorite burger place, pretty sure someone will join
 - Payday is the 25th of each month
 - Make sure you're part of the upcoming "Ny i FINN" course, this will help you getting familiar with things
 - For filing expenses you need to use Agresso (https://agresso.schibsted.no/agrprod/) with your FINN email
-- Almost every Wednesday at 14:30 there is Academy (i.e tech talk) in the cantina of the 4th floor with refreshments. You can see the schedule [here](https://confluence.schibsted.io/display/FC/FINN+Academy).
 
 ## FINN Technology onboarding guide
 There is an onboarding guide for all of FINN technology, not just app developers. [Check it out](https://github.schibsted.io/finn/onboarding)!
