@@ -28,7 +28,11 @@ The Wishlist item in the user wishlist should include:
 - Place
 - Title
 
-Expand 'FINNClient' with some 'WishlistItemsClient' protocol to load i.e. 'Response<FavoriteAdContainer>' and then parse it to necessary type. It can be taken i.e. from existed 'FavoriteItemsClient' to load user's favorite ads and work with it as with ads added to wishilst.
+
+Easy approach: Expand API Client with new protocol to load wishlist model which can be parsed from existed user's favorite ads and work with it as with ads added to wishilst.
+
+Advanced approach (optional but recommended): Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response. 
+As requirements and strategies have changed, we have moved to instead use generic services, mostly maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services. 
 
 Below you wills see design for how the feature could look.
 You are encouraged to experiment with animations and creative UX concepts to test the possibilities and limitations of our app architecture.
