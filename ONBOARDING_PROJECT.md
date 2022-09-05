@@ -28,16 +28,13 @@ The Wishlist item in the user wishlist should include:
 - Place
 - Title
 
-Bonus task, optional but recommended: Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response. 
-As requirements and strategies have changed, we have moved to instead use generic services, mostly maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services. 
+Expand 'FINNClient' with some 'WishlistItemsClient' protocol to load i.e. 'Response<FavoriteAdContainer>' and then parse it to necessary type. It can be taken i.e. from existed 'FavoriteItemsClient' to load user's favorite ads and work with it as with ads added to wishilst.
 
-The bonus part of the onboarding task is therefore: Add a simple endpoint for storing and retrieving your wishlist to the [apps-platform-service](https://github.schibsted.io/finn/apps-platform-service) backend service, and make it available through the [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc). It's OK to just deploy to dev and then roll back once you've verified it works.
-
-Below you wills ee design for how the feature could look.
+Below you wills see design for how the feature could look.
 You are encouraged to experiment with animations and creative UX concepts to test the possibilities and limitations of our app architecture.
 If you have any questions get in touch with your assigned buddy and/or TDE.
 
-We don't expect you to spend too long on the task, anything between 1 and 4 weeks is considered reasonable.
+We don't expect you to spend too long on the task, anything between 1 and 3 weeks is considered reasonable.
 We are thankful for having you on the team and we can't wait to see all the things we'll do together!
 
 Wishlist button:
