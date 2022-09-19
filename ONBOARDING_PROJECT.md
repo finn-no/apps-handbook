@@ -29,12 +29,15 @@ The Wishlist item in the user wishlist should include:
 - Title
 
 
-Easy approach: Expand API Client with new protocol to load wishlist model which can be parsed from existed user's favorite ads and work with it as with ads added to wishilst.
+Easy approach: Use the favorite ads backend as a wishlist backend (perhaps a "wishlist"-favorite list 🤷) and be inspired by the existing favorite ads API code.
 
-Advanced approach (optional but recommended): Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response. 
-As requirements and strategies have changed, we have moved to instead use generic services, mostly maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services. 
+Advanced approach: Add a simple endpoint for storing and retrieving your wishlist to the [apps-platform-service](https://github.schibsted.io/finn/apps-platform-service) backend service, and make it available through the [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc). It's recommended to just briefly deploy to dev and then roll back once you've verified it works. Adding actual database storage is also unnecessary, a static list is enough.
+A brief history lesson related to the advanced approach: Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response.
+As requirements and strategies have changed, we have moved to instead use domain specific services, maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services.
 
-Below you wills see design for how the feature could look.
+Optional task: If you decide to try the easy approach but still want to know more about our backends. Clone the [Native Apps Proxy](https://github.schibsted.io/finn/finn_native_app_proxy) and [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc) repositories and try to start the services locally on your machine. You can then also connect the app running in simulator/emulator to the locally running backends.
+
+Below you can see designs for how the feature _could_ look.
 You are encouraged to experiment with animations and creative UX concepts to test the possibilities and limitations of our app architecture.
 If you have any questions get in touch with your assigned buddy and/or TDE.
 
@@ -55,6 +58,3 @@ Empty state of the wishlist:
 |Light|Dark |
 |----|----|
 |![Screenshot_1653302916](https://user-images.githubusercontent.com/15628235/169805460-9cd0d192-fcd5-40a6-aab9-133fa167ad18.png)|![Screenshot_1653302904](https://user-images.githubusercontent.com/15628235/169805537-50592ecf-d9a6-464e-ab83-d40b66125119.png)|
-
-
-
