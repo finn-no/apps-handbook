@@ -28,16 +28,25 @@ The Wishlist item in the user wishlist should include:
 - Place
 - Title
 
-Bonus task, optional but recommended: Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response. 
-As requirements and strategies have changed, we have moved to instead use generic services, mostly maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services. 
+## Normal approach
+Use the favorite ads backend as a wishlist backend (perhaps a "wishlist"-favorite list 🤷) and be inspired by the existing favorite ads API code.
 
-The bonus part of the onboarding task is therefore: Add a simple endpoint for storing and retrieving your wishlist to the [apps-platform-service](https://github.schibsted.io/finn/apps-platform-service) backend service, and make it available through the [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc). It's OK to just deploy to dev and then roll back once you've verified it works.
+### Optional task
+If you decide to try the normal approach and want to know more about our backends. Clone the [Native Apps Proxy](https://github.schibsted.io/finn/finn_native_app_proxy) and [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc) repositories and try to start the services locally on your machine. You can then also connect the app running in simulator/emulator to the locally running backends.
 
-Below you wills ee design for how the feature could look.
+## Advanced (optional) approach
+Add a simple endpoint for storing and retrieving your wishlist to the [apps-platform-service](https://github.schibsted.io/finn/apps-platform-service) backend service, and make it available through the [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc). It's recommended to just briefly deploy to dev and then roll back once you've verified it works. Adding actual database storage is also unnecessary, a static list is enough.
+
+## History of FINN app backends
+A brief history lesson related to the app backends. Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response.
+As requirements and strategies have changed, we have moved to instead use domain specific services, maintained by other teams at FINN, but offered through the *Apps Gateway* to give a single root URL and a uniform way of accessing backend services.
+
+## Design suggestions
+Below you can see designs for how the feature _could_ look.
 You are encouraged to experiment with animations and creative UX concepts to test the possibilities and limitations of our app architecture.
 If you have any questions get in touch with your assigned buddy and/or TDE.
 
-We don't expect you to spend too long on the task, anything between 1 and 4 weeks is considered reasonable.
+We don't expect you to spend too long on the task, anything between 1 and 3 weeks is considered reasonable.
 We are thankful for having you on the team and we can't wait to see all the things we'll do together!
 
 Wishlist button:
@@ -54,6 +63,3 @@ Empty state of the wishlist:
 |Light|Dark |
 |----|----|
 |![Screenshot_1653302916](https://user-images.githubusercontent.com/15628235/169805460-9cd0d192-fcd5-40a6-aab9-133fa167ad18.png)|![Screenshot_1653302904](https://user-images.githubusercontent.com/15628235/169805537-50592ecf-d9a6-464e-ab83-d40b66125119.png)|
-
-
-
