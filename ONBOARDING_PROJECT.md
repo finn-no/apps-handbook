@@ -16,9 +16,10 @@ Some of the topics that you'll cover here are:
 - What utils are available
 - What fonts, colors and dimensions to use in order to make it fit in the app.
 - Light and Dark mode support.
+- Modularized codebase.
 
 The project consists in adding the Wishlist feature to the FINN app: You should be able to navigate to an ad in FINN and add it and remove it to your Wishlist. You should also be able to access all your wishlist entries from your "Min FINN" page.
-Another requirement is that you should be able to access the items in your Wishlist offline.
+Another requirement is that if you lose Internet connection while the app is running it should be handled gracefully, show the wishlist as it was in it's last known state. The final requirement is that you should create at least one new module in the codebase (on iOS that means adding at least one more SPM library in finn-app-modules).
 
 The Wishlist item in the user wishlist should include:
 - Picture of the item
@@ -31,11 +32,10 @@ The Wishlist item in the user wishlist should include:
 ## Normal approach
 Use the favorite ads backend as a wishlist backend (perhaps a "wishlist"-favorite list 🤷) and be inspired by the existing favorite ads API code.
 
-### Optional task
-If you decide to try the normal approach and want to know more about our backends. Clone the [Native Apps Proxy](https://github.schibsted.io/finn/finn_native_app_proxy) and [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc) repositories and try to start the services locally on your machine. You can then also connect the app running in simulator/emulator to the locally running backends.
+If you are thinking something like "I'm making a wishlist not a favorite list" and want to have a more customized backend have a look at https://github.schibsted.io/finn/apps-wishlist-onboarding, you can run that on your local machine and connect the simulator/emulator to it.
 
-## Advanced (optional) approach
-Add a simple endpoint for storing and retrieving your wishlist to the [apps-platform-service](https://github.schibsted.io/finn/apps-platform-service) backend service, and make it available through the [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc). It's recommended to just briefly deploy to dev and then roll back once you've verified it works. Adding actual database storage is also unnecessary, a static list is enough.
+### Optional task
+If you want to know more about our backends. Clone the [Native Apps Proxy](https://github.schibsted.io/finn/finn_native_app_proxy) and [Apps Gateway](https://github.schibsted.io/finn/apps-gw-poc) repositories and try to start the services locally on your machine. You can then also connect the app running in simulator/emulator to the locally running backends.
 
 ## History of FINN app backends
 A brief history lesson related to the app backends. Our app was originally designed to contact a single backend-for-frontend known as the *Native Apps Proxy*. The proxy contacted other services through various protocols, and merged and transformed results for an app-specific response.
