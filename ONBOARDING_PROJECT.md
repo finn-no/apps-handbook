@@ -19,7 +19,7 @@ Some of the topics that you'll cover here are:
 - Modularized codebase.
 
 The project consists in adding the Wishlist feature to the FINN app: You should be able to navigate to an ad in FINN and add it and remove it to your Wishlist. You should also be able to access all your wishlist entries from your "Min FINN" page.
-Another requirement is that if you loose Internet connection while the app is running it should be handled gracefully, show the wishlist as it was in it's last known state. The final requirement is that you should create at least one new module in the codebase (on iOS that means adding at least one more SPM library in finn-app-modules).
+Another requirement is that if you lose Internet connection while the app is running it should be handled gracefully, show the wishlist as it was in it's last known state. The final requirement is that you should create at least one new module in the codebase (on iOS that means adding at least one more SPM library in finn-app-modules).
 
 The Wishlist item in the user wishlist should include:
 - Picture of the item
